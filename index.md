@@ -13,7 +13,7 @@ hero:
       link: https://discord.gg/EyrxrVsTFk
     - theme: alt
       text: Contribute
-      link: https://github.com/404.html
+      link: https://github.com/ech0devv/wikifilm
 
 features:
   - title: Film cameras

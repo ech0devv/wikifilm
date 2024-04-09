@@ -20,7 +20,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/404.html' }
+      { icon: 'github', link: 'https://github.com/ech0devv/wikifilm' }
     ]
   }
 })
